@@ -1,10 +1,13 @@
+This repo is a fork of the [original g3data repo](http://github.com/pn2200/g3data/). The original repo was not maintained anymore, and this one should be the one with the new features.
+
+
 What is g3data?
 ---------------
 g3data is a tool for extracting data from scanned graphs. For graphs
 published in scientific articles the actual data is usually not
 explicitly given; g3data makes the process of extracting this data easy.
 
-Web: http://github.com/pn2200/g3data/
+Web: http://github.com/whit2333/g3data/
 
 License
 -------
